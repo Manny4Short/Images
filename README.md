@@ -17,4 +17,5 @@ Use github issues to host images
 
 ![Temperature-converter-image](https://github.com/user-attachments/assets/c9baa432-a176-43e4-945e-d121d47fdb49)
 
+![Random-quote-image](https://github.com/user-attachments/assets/245ccc1e-384c-4170-bfa2-2385f3809b46)
 
